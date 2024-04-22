@@ -8237,7 +8237,7 @@ h1, h2, h3, h4, h5,
         height: 2px;
         bottom: 0;
         left: 0;
-        background: #ffbd39;
+        background: #fc0303;
         visibility: visible;
         -webkit-transform: scaleX(0);
         -moz-transform: scaleX(0);
@@ -8265,12 +8265,12 @@ h1, h2, h3, h4, h5,
         color: #fff; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #ffbd39;
+    border: 1px solid #fc0303;
     padding-top: .7rem;
     padding-bottom: .7rem;
     padding-left: 18px;
     padding-right: 18px;
-    background: #ffbd39;
+    background: #fc0303;
     margin-top: 0;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -8288,7 +8288,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
     background: transparent;
     background: none;
-    color: #ffbd39; }
+    color: #fc0303; }
     .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active span:before {
       visibility: visible;
       -webkit-transform: scaleX(1);
@@ -8364,7 +8364,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-link {
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #ffbd39 !important; }
+        color: #fc0303 !important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -8828,7 +8828,7 @@ h1, h2, h3, h4, h5,
   .resume-wrap .date {
     font-weight: 900;
     font-size: 26px;
-    color: #ffbd39; }
+    color: #ff0000; }
   .resume-wrap h2 {
     font-size: 26px; }
   .resume-wrap .position {
@@ -9429,7 +9429,7 @@ textarea.form-control {
     -ms-border-radius: 50%;
     border-radius: 50%; }
     .contact-section .box .icon span {
-      color: #ffbd39;
+      color: #ff0000;
       font-size: 30px; }
   .contact-section .box h3 {
     font-size: 17px;
